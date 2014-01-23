@@ -1,6 +1,6 @@
 Hendercoin (HDC) - a better version of Litecoin which also uses scrypt as a proof of work scheme and is intended for microtransactions.
  - 1 minute block targets
- - 1,041,379,200,000 total coins (Number of milliseconds since Cal's birth on Jan 17, 2014)
+ - 1,041,379,200,000 total coins (Number of milliseconds since Cal's birth, from Jan 17, 2014)
  - 579,000,000 coin reward per block (number of pets Cal has collected in World of Warcraft * 1 million), halves every 888 blocks
  - difficulty updates every 4 hours
  - currently peers are looked up over IRC only
