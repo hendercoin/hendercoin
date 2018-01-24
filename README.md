@@ -1,4 +1,5 @@
-Hendercoin (HDC) - a better version of Litecoin which also uses scrypt as a proof of work scheme and is intended for microtransactions.
+Hendercoin (HDC) - a better version of Litecoin which also uses scrypt as a proof of work scheme and is intended for microtransactions. Switching to Proof of Jake (Paul) in Q1 2018. 
+
  - 1 minute block targets
  - 1,041,379,200,000 total coins (Number of milliseconds since Cal's birth, from Jan 17, 2014)
  - 579,000,000 coin reward per block (number of pets Cal has collected in World of Warcraft * 1 million), halves every 888 blocks
